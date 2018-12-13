@@ -1,5 +1,4 @@
 # CustomTaskPanel
-Example
 
 qmake-qt4
 
